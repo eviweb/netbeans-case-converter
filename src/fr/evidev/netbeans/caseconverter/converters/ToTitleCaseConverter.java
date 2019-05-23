@@ -16,8 +16,6 @@
 package fr.evidev.netbeans.caseconverter.converters;
 
 import fr.evidev.netbeans.caseconverter.utils.StringUtils;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * To title case converter
