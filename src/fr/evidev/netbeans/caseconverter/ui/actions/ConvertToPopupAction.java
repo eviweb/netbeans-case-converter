@@ -38,7 +38,7 @@ import org.openide.util.actions.Presenter;
 @ActionRegistration(
         displayName = "#CTL_ConvertToPopupAction", lazy = false
 )
-@ActionReference(path = "Editors/Popup", position = 250001)
+@ActionReference(path = "Editors/Popup", position = 300001)
 @Messages("CTL_ConvertToPopupAction=Convert to...")
 public final class ConvertToPopupAction extends AbstractAction implements ActionListener, Presenter.Popup {
 
