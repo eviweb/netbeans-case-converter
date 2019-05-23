@@ -5,6 +5,15 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
 
+### Added
+
+- Descriptions of each converter in README
+
+### Fixed
+
+- Wrong image link for disabled menu in README
+- Typo in README
+
 ## 0.1.0 - 2019-05-23
 
 ### Added
