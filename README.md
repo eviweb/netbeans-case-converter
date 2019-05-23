@@ -8,7 +8,7 @@ Installation
 
 ### Manually
 
-First, download the latest [_NBM_][nbm] package.
+First, download the latest [_NBM_][nbm] package.  
 Then proceed through the menu _Tools > Plugins > Downloaded > Add Plugins..._
 
 Status
