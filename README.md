@@ -51,7 +51,7 @@ License
 
 This project is licensed under the terms of the [Apache License, version 2](/LICENSE)
 
-[nbm]: https://github.com/evidev/releases/latest/download/fr-evidev-netbeans-caseconverter.nbm
+[nbm]: https://github.com/eviweb/netbeans-case-converter/releases/latest/download/fr-evidev-netbeans-caseconverter.nbm
 [license-badge]: https://img.shields.io/github/license/eviweb/netbeans-case-converter.svg
 [license-link]: https://github.com/eviweb/netbeans-case-converter/blob/master/LICENSE
 [release-badge]: https://img.shields.io/github/release/eviweb/netbeans-case-converter.svg
