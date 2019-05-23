@@ -22,7 +22,7 @@ Usage
 
 In the editor panel:
 
-1. Select the text you want to change the case
+1. Select the text you want to change the case of
 2. Right-click to open the contextual menu
 3. Open the `Convert To...` submenu
 4. Click on the converter of your choice
