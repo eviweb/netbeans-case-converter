@@ -5,6 +5,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
 
+### Changed
+
+- Swap _Status_ and _Installation_ sections in README
+
 ### Added
 
 - Descriptions of each converter in README

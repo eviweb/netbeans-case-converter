@@ -3,6 +3,12 @@ NetBeans Case Converter
 
 This module provides easy to use string case converters.
 
+Status
+------
+
+[![GitHub license][license-badge]][license-link]
+[![GitHub release][release-badge]][release-latest]
+
 Installation
 ------------
 
@@ -10,12 +16,6 @@ Installation
 
 First, download the latest [_NBM_][nbm] package.  
 Then proceed through the menu _Tools > Plugins > Downloaded > Add Plugins..._
-
-Status
-------
-
-[![GitHub license][license-badge]][license-link]
-[![GitHub release][release-badge]][release-latest]
 
 Usage
 -----
