@@ -31,7 +31,7 @@ In the editor panel:
 
 Please note that if no text is selected, the menu is disabled.
 
-![Convert To... disabled](/resources/enabled-menu.png)
+![Convert To... disabled](/resources/disabled-menu.png)
 
 Available Converters
 --------------------
