@@ -18,13 +18,13 @@ package fr.evidev.netbeans.caseconverter.converters;
 import fr.evidev.netbeans.caseconverter.utils.StringUtils;
 
 /**
- * To camel case converter
+ * To pascal case converter
  *
  * @author Eric VILLARD <dev@eviweb.fr>
  */
-final class ToCamelCaseConverter implements Converter {
+final class ToPascalCaseConverter implements Converter {
 
-    public ToCamelCaseConverter() {
+    public ToPascalCaseConverter() {
     }
 
     @Override

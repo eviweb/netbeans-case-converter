@@ -15,6 +15,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 - Descriptions of each converter in README
 - Add `StringUtils.uncapitalizeFirstChar()` method
+- Add ToPascalCaseConverter converter
 
 ### Fixed
 

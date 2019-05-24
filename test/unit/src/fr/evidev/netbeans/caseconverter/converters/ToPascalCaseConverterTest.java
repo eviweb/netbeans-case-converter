@@ -19,7 +19,7 @@ package fr.evidev.netbeans.caseconverter.converters;
  *
  * @author Eric VILLARD <dev@eviweb.fr>
  */
-public class ToCamelCaseConverterTest extends ConverterTestBase {
+public class ToPascalCaseConverterTest extends ConverterTestBase {
 
     @Override
     protected void registerScenarii() {
@@ -38,7 +38,7 @@ public class ToCamelCaseConverterTest extends ConverterTestBase {
 
             @Override
             public String getDescription() {
-                return "Convert simple text to CamelCase.";
+                return "Convert simple text to PascalCase.";
             }
         },
                 new ConversionScenario() {
@@ -54,7 +54,7 @@ public class ToCamelCaseConverterTest extends ConverterTestBase {
 
             @Override
             public String getDescription() {
-                return "Convert snake case like text to CamelCase.";
+                return "Convert snake case like text to PascalCase.";
             }
         },
                 new ConversionScenario() {
@@ -70,7 +70,7 @@ public class ToCamelCaseConverterTest extends ConverterTestBase {
 
             @Override
             public String getDescription() {
-                return "Convert hyphen case like text to CamelCase.";
+                return "Convert hyphen case like text to PascalCase.";
             }
         });
     }

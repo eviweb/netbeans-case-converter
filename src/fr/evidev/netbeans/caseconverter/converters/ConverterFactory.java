@@ -29,6 +29,7 @@ public abstract class ConverterFactory {
         CAMELCASE,
         HYPHENCASE,
         LOWERCASE,
+        PASCALCASE,
         SENTENCECASE,
         SNAKECASE,
         TITLECASE,
@@ -58,6 +59,10 @@ public abstract class ConverterFactory {
 
     final public static Converter newLowerCaseConverter() {
         return new ToLowerCaseConverter();
+    }
+    
+    final public static Converter newPascalCaseConverter() {
+        return new ToPascalCaseConverter();
     }
     
     final public static Converter newSentenceCaseConverter() {
