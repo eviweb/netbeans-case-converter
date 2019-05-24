@@ -38,9 +38,10 @@ Available Converters
 
 Current available converters:
 
-- `CamelCase`: _first capitalized letter of each word, no space_
+- `camelCase`: _first capitalized letter of each word, except for the first letter of the resulting word, no space_
 - `hyphen-case`: _lower case words separated with an hyphen_
 - `lower case`: _lower case words_
+- `PascalCase`: _first capitalized letter of each word, no space_
 - `Sentence case.`: _first capitalized letter of the first word, ends with a dot (capital letters within the sentence are preserved)_
 - `snake_case`: _lower case words separated with an underline character_
 - `Title Case`: _first capitalized letter of each word, one space between words_
