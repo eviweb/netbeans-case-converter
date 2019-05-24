@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
 
+## 0.1.1 - 2019-05-24
+
 ### Changed
 
 - Swap _Status_ and _Installation_ sections in README
@@ -16,7 +18,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Descriptions of each converter in README
 - Add `StringUtils.uncapitalizeFirstChar()` method
 - Add ToPascalCaseConverter converter
-- Add ConvertToPascalCaseAction action 
+- Add ConvertToPascalCaseAction action
 
 ### Fixed
 
