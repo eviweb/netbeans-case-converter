@@ -23,7 +23,7 @@ public class ToCamelCaseConverterTest extends ConverterTestBase {
 
     @Override
     protected void registerScenarii() {
-        String expected = "SomeDummyText";
+        String expected = "someDummyText";
         addScenarii(
                 new ConversionScenario() {
             @Override
@@ -38,7 +38,7 @@ public class ToCamelCaseConverterTest extends ConverterTestBase {
 
             @Override
             public String getDescription() {
-                return "Convert simple text to CamelCase.";
+                return "Convert simple text to camelCase.";
             }
         },
                 new ConversionScenario() {
@@ -54,7 +54,7 @@ public class ToCamelCaseConverterTest extends ConverterTestBase {
 
             @Override
             public String getDescription() {
-                return "Convert snake case like text to CamelCase.";
+                return "Convert snake case like text to camelCase.";
             }
         },
                 new ConversionScenario() {
@@ -70,7 +70,7 @@ public class ToCamelCaseConverterTest extends ConverterTestBase {
 
             @Override
             public String getDescription() {
-                return "Convert hyphen case like text to CamelCase.";
+                return "Convert hyphen case like text to camelCase.";
             }
         });
     }

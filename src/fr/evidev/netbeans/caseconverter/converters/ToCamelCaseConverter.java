@@ -30,7 +30,7 @@ final class ToCamelCaseConverter implements Converter {
     @Override
     public String convert(String text) {
         String result = StringUtils.capitalizePattern(text, "[\\s_-]+[a-zA-Z]");
-        result = StringUtils.capitalizeFirstChar(result);
+        result = StringUtils.uncapitalizeFirstChar(result);
         result = StringUtils.replaceDuplicatesWithUnique(result, "[\\s_-]+", "");
 
         return result;

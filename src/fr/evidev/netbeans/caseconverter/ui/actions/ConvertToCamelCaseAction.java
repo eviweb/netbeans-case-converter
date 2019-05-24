@@ -27,7 +27,7 @@ import org.openide.util.NbBundle.Messages;
 @ActionRegistration(
         displayName = "#CTL_ConvertToCamelCaseAction"
 )
-@Messages("CTL_ConvertToCamelCaseAction=CamelCase")
+@Messages("CTL_ConvertToCamelCaseAction=camelCase")
 public final class ConvertToCamelCaseAction extends ConvertToAction {
 
     @Override

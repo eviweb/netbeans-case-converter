@@ -21,6 +21,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Wrong image link for disabled menu in README
 - Typo in README
 - Wrong link to the downloadable NBM file at Github
+- Fix camelCase by uncapitalizing the first character
 
 ## 0.1.0 - 2019-05-23
 
