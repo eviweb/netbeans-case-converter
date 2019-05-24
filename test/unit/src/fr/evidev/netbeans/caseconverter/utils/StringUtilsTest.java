@@ -48,6 +48,31 @@ public class StringUtilsTest {
         assertEquals(expected, StringUtils.capitalizeFirstChar(source));
         assertEquals(expected, StringUtils.capitalizeFirstChar(source.toUpperCase()));
     }
+    
+    /**
+     * Test of capitalizeFirstChar method, of class StringUtils.
+     */
+    @Test
+    public void testUncapitalizeFirstChar() {
+        String source = "Some Dummy text";
+        String expected = "some Dummy text";
+
+        assertEquals(expected, StringUtils.uncapitalizeFirstChar(source));
+    }
+
+    @Test
+    public void testUncapitalizeFirstCharOnEmptyString() {
+        assertTrue(StringUtils.uncapitalizeFirstChar("").isEmpty());
+    }
+
+    @Test
+    public void testUncapitalizeFirstCharOnSingleCharString() {
+        String source = "S";
+        String expected = "s";
+
+        assertEquals(expected, StringUtils.uncapitalizeFirstChar(source));
+        assertEquals(expected, StringUtils.uncapitalizeFirstChar(source.toUpperCase()));
+    }
 
     /**
      * Test of capitalizePattern method, of class StringUtils.

@@ -28,6 +28,10 @@ public final class StringUtils {
     public static String capitalizeFirstChar(String text) {
         return text.isEmpty() ? text : text.substring(0, 1).toUpperCase().concat(text.substring(1));
     }
+    
+    public static String uncapitalizeFirstChar(String text) {
+        return text.isEmpty() ? text : text.substring(0, 1).toLowerCase().concat(text.substring(1));
+    }
 
     public static String capitalizePattern(String text, String pattern) {
         Matcher m = Pattern.compile("(" + pattern + ")").matcher(text);

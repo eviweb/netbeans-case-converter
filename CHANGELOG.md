@@ -14,6 +14,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 
 - Descriptions of each converter in README
+- Add `StringUtils.uncapitalizeFirstChar()` method
 
 ### Fixed
 
