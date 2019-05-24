@@ -9,6 +9,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 - Swap _Status_ and _Installation_ sections in README
 - Change module display category to `Editing` instead of `Tools`
+- Enhance the module description with HTML to make it more readable
 
 ### Added
 
