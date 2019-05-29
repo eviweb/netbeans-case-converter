@@ -27,7 +27,7 @@ In the editor panel:
 3. Open the `Convert To...` submenu
 4. Click on the converter of your choice
 
-![Convert To...](/resources/enabled-menu.png)
+![Convert To... enabled](/resources/enabled-menu.png)
 
 Please note that if no text is selected, the menu is disabled.
 

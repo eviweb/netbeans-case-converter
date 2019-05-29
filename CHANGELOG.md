@@ -5,6 +5,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
 
+### Changed
+
+- Update enabled menu screenshot
+
 ## 0.1.1 - 2019-05-24
 
 ### Changed
