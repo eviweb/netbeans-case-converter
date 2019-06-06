@@ -9,6 +9,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 - Update enabled menu screenshot
 
+### Fixed
+
+- Fix module description
+
 ## 0.1.1 - 2019-05-24
 
 ### Changed
