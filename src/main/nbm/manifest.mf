@@ -1,6 +1,4 @@
 Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: true
-OpenIDE-Module: fr.evidev.netbeans.caseconverter
 OpenIDE-Module-Layer: fr/evidev/netbeans/caseconverter/layer.xml
 OpenIDE-Module-Localizing-Bundle: fr/evidev/netbeans/caseconverter/Bundle.properties
-OpenIDE-Module-Specification-Version: 0.1.1
