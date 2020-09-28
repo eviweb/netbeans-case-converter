@@ -15,8 +15,7 @@ In the editor panel:
 &lt;ol&gt;
     &lt;li&gt;Select the text you want to change the case of&lt;/li&gt;
     &lt;li&gt;Right-click to open the contextual menu&lt;/li&gt;
-    &lt;li&gt;Open the &lt;code&gt;Convert To...
-    &lt;/code&gt; submenu&lt;/li&gt;
+    &lt;li&gt;Open the &lt;code&gt;Convert To...&lt;/code&gt; submenu&lt;/li&gt;
     &lt;li&gt;Click on the converter of your choice&lt;/li&gt;
 &lt;/ol&gt;
 Please note that if no text is selected, the menu is disabled.
@@ -27,9 +26,7 @@ Please note that if no text is selected, the menu is disabled.
     &lt;li&gt;&lt;b&gt;hyphen-case&lt;/b&gt;: lower case words separated with an hyphen&lt;/li&gt;
     &lt;li&gt;&lt;b&gt;lower case&lt;/b&gt;: lower case words&lt;/li&gt;
     &lt;li&gt;&lt;b&gt;PascalCase&lt;/b&gt;: first capitalized letter of each word, no space&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Sentence case.
-    &lt;/b&gt;: first capitalized letter of the first word, ends with a dot (capital letters within
-        the sentence are preserved)&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Sentence case.&lt;/b&gt;: first capitalized letter of the first word, ends with a dot (capital letters within the sentence are preserved)&lt;/li&gt;
     &lt;li&gt;&lt;b&gt;snake_case&lt;/b&gt;: lower case words separated with an underline character&lt;/li&gt;
     &lt;li&gt;&lt;b&gt;Title Case&lt;/b&gt;: first capitalized letter of each word, one space between words&lt;/li&gt;
     &lt;li&gt;&lt;b&gt;UPPER CASE&lt;/b&gt;: upper case words&lt;/li&gt;
