@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>fr.evidev.netbeans</groupId>
     <name>NetBeans Case Converter</name>
-    <artifactId>fr.evidev.netbeans.caseconverter</artifactId>
+    <artifactId>fr-evidev-netbeans-caseconverter</artifactId>
     <version>0.2.0</version>
     <packaging>nbm</packaging>
     <build>
