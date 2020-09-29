@@ -3,6 +3,8 @@ NetBeans Case Converter
 
 This module provides easy to use string case converters.
 
+_NetBeans version 11.0+_
+
 Status
 ------
 

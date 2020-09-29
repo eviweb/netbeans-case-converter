@@ -5,6 +5,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
 
+## 0.2.1 - 2020-09-29
+
+### Fixed
+
+- Fix background compatibility to NetBeans version 11.0+
+
 ## 0.2.0 - 2020-09-29
 
 ### Changed
