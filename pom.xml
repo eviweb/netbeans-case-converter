@@ -81,6 +81,18 @@ Please note that if no text is selected, the menu is disabled.
                 <artifactId>nbm-maven-plugin</artifactId>
                 <version>4.5</version>
                 <extensions>true</extensions>
+                <configuration>
+                    <!-- keep it for backwards compatibility to previous versions-->
+                    <codeNameBase>fr.evidev.netbeans.modules.caseconverter</codeNameBase>
+                    <author>Eric VILLARD (dev@eviweb.fr)</author>
+                    <homePageUrl>link:https://github.com/eviweb/netbeans-case-converter[https://github.com/eviweb/netbeans-case-converter]</homePageUrl>
+                    <!-- keystore: only required, if you don't want to pass the path to the keystore file via cmdline-->
+                    <keystore>${keystore}</keystore>
+                    <keystorealias>${keystorealias}</keystorealias>
+                    <keystorepassword>${keystorepassword}</keystorepassword>
+                    <licenseName>Apache License, Version 2.0</licenseName>
+                    <licenseFile>LICENSE</licenseFile>
+                </configuration>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
