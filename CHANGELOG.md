@@ -5,9 +5,14 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
 
+## 0.2.0 - 2020-09-29
+
 ### Changed
 
 - Update enabled menu screenshot
+- Change builder from Ant to Maven
+- Update README
+- Set NetBeans API version compatibility to 12.1
 
 ### Fixed
 
