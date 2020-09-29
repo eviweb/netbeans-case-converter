@@ -17,6 +17,10 @@ Installation
 First, download the latest [_NBM_][nbm] package.  
 Then proceed through the menu _Tools > Plugins > Downloaded > Add Plugins..._
 
+### Apache NetBeans Plugin Portal Update Center
+
+Go to _Tools > Plugins > Available Plugins_, check _NetBeans Case Converter_ in the _Editing_ section, then click the _Install_ button.
+
 Usage
 -----
 
