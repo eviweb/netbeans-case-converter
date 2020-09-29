@@ -5,6 +5,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
 
+## 0.2.2 - 2020-09-29
+
+### Fixed
+
+- Fix issue #1: set Java minimal version to JDK 11
+
 ## 0.2.1 - 2020-09-29
 
 ### Fixed

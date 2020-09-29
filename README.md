@@ -3,13 +3,17 @@ NetBeans Case Converter
 
 This module provides easy to use string case converters.
 
-_NetBeans version 11.0+_
-
 Status
 ------
 
 [![GitHub license][license-badge]][license-link]
 [![GitHub release][release-badge]][release-latest]
+
+Compatibility
+-------------
+
+* NetBeans version 11.0+
+* Java version 11.0+
 
 Installation
 ------------
