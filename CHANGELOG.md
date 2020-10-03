@@ -5,6 +5,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
 
+### Changed
+
+- Revert compiler settings to support Java 1.8
+
 ### Fixed
 
 - Fix issue #2: get rid of `java.lang.String.stripLeading` to get backward compatibility with JDK 1.8

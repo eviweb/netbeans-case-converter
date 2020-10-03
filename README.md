@@ -13,7 +13,7 @@ Compatibility
 -------------
 
 * NetBeans version 11.0+
-* Java version 11.0+
+* Java version 1.8+
 
 Installation
 ------------
