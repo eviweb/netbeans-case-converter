@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
 
+## 0.2.3 - 2020-10-03
+
 ### Changed
 
 - Revert compiler settings to support Java 1.8
