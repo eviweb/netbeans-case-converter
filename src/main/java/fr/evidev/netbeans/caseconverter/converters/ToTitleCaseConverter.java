@@ -32,7 +32,8 @@ final class ToTitleCaseConverter implements Converter {
         String result = StringUtils.capitalizePattern(text, "[\\s_-]+[a-zA-Z]");
         result = StringUtils.capitalizeFirstChar(result);
         result = StringUtils.prefixPatternWith(result, "[A-Z]", " ");
-        result = StringUtils.replaceDuplicatesWithUnique(result, "[\\s_-]+", " ").stripLeading();
+        result = StringUtils.replaceDuplicatesWithUnique(result, "[\\s_-]+", " ");
+        result = StringUtils.stripLeadingPatternFrom(result, " ");
 
         return result;
     }

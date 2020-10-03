@@ -5,6 +5,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
 
+### Fixed
+
+- Fix issue #2: get rid of `java.lang.String.stripLeading` to get backward compatibility with JDK 1.8
+
 ## 0.2.2 - 2020-09-29
 
 ### Fixed
